@@ -1,0 +1,18 @@
+Q1.Show first 5 records of dataset?
+Q2.How many records and columns are in dataset?
+Q3.Show the datatypes of different columns.handle the missing values.
+Q4.What was the total number of sales? What branch has the highest number of sales?
+Q5.What type of product is sold the most?
+Q6.What is the average sales of electoniv=cs accessories?
+Q7.What gender buy more items in each category? what is the category?
+Q8.What is the favorite method of payment of the members? of the normal customers?
+Q9.What time should we display an advertisement to maximize the revenue?
+Q10.What does the customer rating look like and is it skewed?
+Q11.Does gross income affect the ratings that the customers provide?
+Q12.Is there any relationship between Gender and Gross income?
+Q13.What is the spending pattern of females and males and in which 
+category do they spend a lot?
+Q14.Analyze the pairwise relationship between the numeric variables?
+
+Dataset Link:
+https://drive.google.com/drive/folders/1VMfu37QBXYmkFwwHYnLqqsw1F0HB-Uyl?usp=sharing
